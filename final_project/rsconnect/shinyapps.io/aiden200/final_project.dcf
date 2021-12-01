@@ -1,0 +1,13 @@
+name: final_project
+title: final_project
+username:
+account: aiden200
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5163300
+bundleId: 5272105
+url: https://aiden200.shinyapps.io/final_project/
+when: 1637356808.68354
+lastSyncTime: 1637356808.68355
+asMultiple: FALSE
+asStatic: FALSE
